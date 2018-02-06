@@ -10,3 +10,4 @@ Parts:
 - Some wires
 - Blynk account
 
+![nodemcu_motion_sensor](/images/nodemcu_motion_sensor.png)
