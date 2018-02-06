@@ -9,5 +9,10 @@ Parts:
 - 18650 Battery
 - Some wires
 - Blynk account
+- 1k resistor
+- 10k resistor
+- 2N222 NPN Transistor
 
 ![nodemcu_motion_sensor](nodemcu_motion_sensor.png)
+
+3D printed enclosure can be downloaded from thingiverse, https://www.thingiverse.com/thing:2784417
