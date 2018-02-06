@@ -5,8 +5,12 @@ The NodeMCU Multisensor remixed from a sensor by Bruh Automation led me to creat
 
 Parts:
 Nodemcu Development board
+
 PIR Sensor
+
 18650 Battery
+
 Some wires
+
 Blynk account
 
